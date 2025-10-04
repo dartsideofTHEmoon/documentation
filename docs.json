@@ -8,6 +8,9 @@
     "dark": "#fff"
   },
   "favicon": "/favicon.svg",
+  "fonts": {
+    "family" : "Open Sans"
+  },
   "navigation": {
     "tabs": [
       {
