@@ -11,6 +11,7 @@
   "fonts": {
     "family" : "Open Sans"
   },
+  "description" : "paymove | API Docs",
   "navigation": {
     "tabs": [
       {
