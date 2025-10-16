@@ -18,7 +18,7 @@
         "tab": "API Docs",
         "groups": [
           {
-            "group": "",
+            "group": "Test",
             "pages": [
               "index",
               "essentials/settings",
