@@ -18,7 +18,22 @@
         "tab": "API Docs",
         "groups": [
           {
-            "group": "Test",
+            "group": "Intro",
+            "pages": [
+              "index",
+              "essentials/settings",
+              "essentials/navigation",
+              "essentials/markdown",
+              "essentials/code",
+              "essentials/images",
+              "essentials/reusable-snippets",
+              "ai-tools/cursor",
+              "ai-tools/claude-code",
+              "ai-tools/windsurf"
+            ]
+          },
+                    {
+            "group": "Szybka płatność",
             "pages": [
               "index",
               "essentials/settings",
