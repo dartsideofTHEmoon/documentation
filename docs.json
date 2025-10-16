@@ -9,39 +9,24 @@
   },
   "favicon": "/favicon.svg",
   "fonts": {
-    "family" : "Open Sans"
+    "family": "Open Sans"
   },
-  "description" : "paymove | API Docs",
+  "description": "paymove | API Docs",
   "navigation": {
     "tabs": [
       {
         "tab": "API Docs",
         "groups": [
           {
-            "group": "Jak zacząć",
+            "group": "",
             "pages": [
-              "index"
-            ]
-          },
-          {
-            "group": "Customization",
-            "pages": [
+              "index",
               "essentials/settings",
-              "essentials/navigation"
-            ]
-          },
-          {
-            "group": "Writing content",
-            "pages": [
+              "essentials/navigation",
               "essentials/markdown",
               "essentials/code",
               "essentials/images",
-              "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
+              "essentials/reusable-snippets",
               "ai-tools/cursor",
               "ai-tools/claude-code",
               "ai-tools/windsurf"
@@ -70,8 +55,7 @@
         ]
       }
     ],
-    "global": {
-    }
+    "global": {}
   },
   "logo": {
     "light": "/logo/light.svg",
@@ -92,15 +76,15 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {
